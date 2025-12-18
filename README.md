@@ -55,7 +55,7 @@ I enjoy **breaking problems down**, understanding **why solutions work**, and wr
 <div align="center">
 
 <!-- 🐍 Contribution Snake -->
-<img src="https://github.com/PranjalManhgaye/PranjalManhgaye/blob/output/github-contribution-grid-snake-dark.svg" 
+<img src="https://github.com/PranjalManhgaye/PRANJAL_MANHGAYE/blob/output/github-contribution-grid-snake-dark.svg" 
      alt="Contribution Snake Animation" width="100%" />
 
 <br/><br/>
