@@ -88,6 +88,7 @@ I enjoy **breaking problems down**, understanding **why solutions work**, and wr
 - 📌 Writing **bug-free, readable C++**
 - 📌 Backend fundamentals before frameworks
 - 📌 Consistency > Speed
+<img width="1604" height="662" alt="image" src="https://github.com/user-attachments/assets/021e0157-9fdb-440b-add7-9bbf5fb5bfc7" />
 
 ---
 
