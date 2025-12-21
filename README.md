@@ -70,8 +70,8 @@ I enjoy **breaking problems down**, understanding **why solutions work**, and wr
 </p>
 
 <!-- 🔥 Streak (FIXED DOMAIN) -->
-<img src="https://streak-stats.demolab.com/?user=PranjalManhgaye&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" 
-     alt="GitHub Streak" />
+<!-- <img src="https://streak-stats.demolab.com/?user=PranjalManhgaye&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" 
+     alt="GitHub Streak" /> -->
 
 <br/><br/>
 
