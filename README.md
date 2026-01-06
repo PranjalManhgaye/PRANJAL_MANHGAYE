@@ -61,13 +61,13 @@ I enjoy **breaking problems down**, understanding **why solutions work**, and wr
 <br/><br/>
 
 <!-- 📊 Stats + Languages -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranjalManhgaye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF" 
        height="180" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalManhgaye&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&hide=html,css" 
        height="180" />
-</p>
+</p> -->
 
 <!-- 🔥 Streak (FIXED DOMAIN) -->
 <!-- <img src="https://streak-stats.demolab.com/?user=PranjalManhgaye&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" 
