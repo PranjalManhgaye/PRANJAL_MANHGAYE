@@ -26,7 +26,7 @@ Alongside systems work, I have experience building web and mobile applications u
 
 ---
 
-## Google Summer of Code 2026 — preCICE
+## Google Summer of Code 2026 - preCICE
 
 I contributed to preCICE through Google Summer of Code 2026. My project focused on improving the system-testing infrastructure used across the preCICE ecosystem.
 
