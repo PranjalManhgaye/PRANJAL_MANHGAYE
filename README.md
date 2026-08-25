@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Pranjal%20👋&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20C++%20%7C%20DSA%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 </div>
+
+<h1 align="center">Hi, I'm Pranjal Manhgaye</h1>
+
+<h3 align="center">
+Software Engineer • Systems & Infrastructure • GSoC '26 @ preCICE
+</h3>
 
 <div align="center">
 
@@ -10,88 +16,77 @@
 
 </div>
 
----
+## About Me
 
-## 👨‍💻 About Me
+I am an Information Technology undergraduate at ABV-IIITM Gwalior with interests in software engineering, systems, infrastructure, and open-source development.
 
-I am a **Information Technology (IT) undergraduate** with a strong focus on **Data Structures, Algorithms, and Backend Development**.  
-I enjoy **breaking problems down**, understanding **why solutions work**, and writing **clean, optimized code**.
+I enjoy solving Data Structures and Algorithms problems in C++ and have a growing interest in low-level systems, concurrency, automation, and distributed systems. I like understanding how software works beneath the surface and how reliable systems are designed, tested, and maintained.
 
-- 🔥 Strong in **C++ (OOP, STL, Trees, DP, Graphs)**
-- 🧠 Regular **DSA & Competitive Programming** practice
-- ⚙️ Interested in **Backend Systems & Scalable Architecture**
-- 📈 Long-term goal: **Top Product Company / Research-level engineering**
+Alongside systems work, I have experience building web and mobile applications using React and Flutter. I enjoy learning through building, contributing, and collaborating on real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Google Summer of Code 2026 — preCICE
 
-<div align="center">
+I contributed to preCICE through Google Summer of Code 2026. My project focused on improving the system-testing infrastructure used across the preCICE ecosystem.
 
-| **Core CS** | **Backend** | **Databases** | **Languages** |
-| :---: | :---: | :---: | :---: |
-| DSA | Node.js | PostgreSQL | C++ |
-| OOP | Express.js | MySQL | C |
-| OS | REST APIs | MongoDB | JavaScript |
-| DBMS | Authentication | Prisma | TypeScript |
+The work included improvements to CI diagnostics, test configurability, reproducibility, metadata handling, release testing, and parallel execution workflows. The goal was to make system tests easier to maintain, easier to debug, and more reliable for contributors and maintainers.
 
-</div>
+### Links
+
+- Project Board: https://github.com/orgs/precice/projects/28/views/4
+- Final Report: https://gist.github.com/PranjalManhgaye/df30f41a551f6f104a51c3e8478e5b7c
+- Organization: https://precice.org
+
+### Key Learnings
+
+- CI/CD and GitHub Actions
+- Docker-based testing environments
+- Scientific software infrastructure
+- Open-source collaboration and code review
+- Reproducibility and testing at scale
+
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+|----------|-------------|
+| Programming Languages | C++, Python, Java, JavaScript, Dart |
+| Frontend & Mobile | React, Flutter |
+| Backend Development | Node.js, Express.js, REST APIs |
+| Infrastructure & Automation | Docker, GitHub Actions, Linux, CI/CD |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Tools | Git, GitHub, Android Studio, Blender |
+| Computer Science | Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks |
+| Interests | Systems Programming, Distributed Systems, Software Infrastructure, Automation, Open Source |
 
 ---
 
-## 🚀 Projects
+## Selected Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **📊 Budget Tracker (C++)** | Role-based expense tracker with authentication, file handling, analytics & reports | `C++` `OOP` |
-| **🌳 Tree & Graph Toolkit** | Implementations of traversals, views, diameter, DFS/BFS, conversions | `C++` |
-| **⚙️ Backend Practice APIs** | Authentication, CRUD, role-based access, clean architecture | `Node.js` `Express` |
-
-> ⚡ *Focus on correctness, clarity, and optimization over flashy UI.*
+| Project | Description |
+|----------|-------------|
+| System Tests Improvements (GSoC 2026 @ preCICE) | Improved testing infrastructure, CI workflows, diagnostics, reproducibility, and developer tooling for a distributed multiphysics simulation framework. |
+| AI-Powered Resume Checker | Built an AI-driven platform for ATS evaluation, semantic job matching, skill-gap analysis, recruiter summaries, and application automation. |
+| Google Lite Search Engine | Implemented TF-IDF ranking, inverted indexing, boolean query processing, and relevance-based retrieval over a crawled corpus. |
+| GenZ Terminal | Developed a Unix-style terminal emulator with process execution, piping, redirection, and signal handling. |
+| CANDEE 2025 Conference App | Built and deployed a Flutter application for an international conference hosted at ABV-IIITM Gwalior. |
 
 ---
-### ⚡ Contribution Activity
 
-<div align="center">
+## Current Focus
 
-<!-- 🐍 Contribution Snake -->
-<img src="https://github.com/PranjalManhgaye/PRANJAL_MANHGAYE/blob/output/github-contribution-grid-snake-dark.svg" 
-     alt="Contribution Snake Animation" width="100%" />
-
-<br/><br/>
-
-<!-- 📊 Stats + Languages -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalManhgaye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF" 
-       height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalManhgaye&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&hide=html,css" 
-       height="180" />
-</p> -->
-
-<!-- 🔥 Streak (FIXED DOMAIN) -->
-<!-- <img src="https://streak-stats.demolab.com/?user=PranjalManhgaye&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" 
-     alt="GitHub Streak" /> -->
-
-<br/><br/>
-
-<!-- 📈 Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalManhgaye&theme=tokyo-night&bg_color=00000000&hide_border=true" 
-     width="100%"/>
-
-</div>
-
-
-## 🎯 Current Focus
-
-- 📌 Trees, Graphs, DP (Interview-level depth)
-- 📌 Writing **bug-free, readable C++**
-- 📌 Backend fundamentals before frameworks
-- 📌 Consistency > Speed
-<!-- <img width="1604" height="662" alt="image" src="https://github.com/user-attachments/assets/021e0157-9fdb-440b-add7-9bbf5fb5bfc7" /> -->
+- Systems Programming
+- Distributed Systems
+- Software Infrastructure
+- CI/CD and Automation
+- Search and Information Retrieval
+- Data Structures & Algorithms
+- Open Source Development
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PranjalManhgaye&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=PranjalManhgaye&style=flat-square" />
 </div>
